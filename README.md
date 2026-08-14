@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashaswini-somashekar/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/yashaswini-somashekar/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/yashaswini-somashekar/leetcode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashaswini-somashekar/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashaswini-somashekar/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashaswini-somashekar/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
